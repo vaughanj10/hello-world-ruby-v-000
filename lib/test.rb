@@ -9,3 +9,7 @@ end
 def what
   puts "testing testing 123"
 end
+
+def bear
+  
+end
